@@ -49,26 +49,6 @@ The algorithm maintains contact with the left wall to guarantee reaching the exi
 
 ---
 
-## Project Structure
-
-autonomous-maze-solver-bot/
-│
-├── README.md
-├── firmware/
-│   └── maze_solver.ino
-│
-├── hardware/
-│   ├── block_diagram.png
-│   ├── circuit_diagram.png
-│
-│
-├── media/
-│   ├── maze_setup.jpg
-│   ├── robot_top_view.jpg
-│   ├── robot_front_view.jpg
-
----
-
 ## Observations
 
 * Ultrasonic sensors provided reliable measurements with minor environmental sensitivity
